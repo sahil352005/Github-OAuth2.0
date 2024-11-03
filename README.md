@@ -36,7 +36,7 @@ To run this project, you'll need:
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/sahil352005/your-repo-name.git
 cd your-repo-name
 ```
 
